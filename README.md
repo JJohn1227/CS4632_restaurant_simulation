@@ -28,12 +28,8 @@ This repository contains the project documentation, UML diagrams, and source cod
   - Average number in system (L)
   - Server utilization
   - Little’s Law validation
-
-### What’s Still to Come
-- Improve output formatting
-- Additional experimental comparisons
-- Final UML diagram upload
-
+ 
+    
 ### Changes from Original Proposal
 - Originally planned in Python
 - Switched to Java for stronger object-oriented structure and easier implementation of matematical formulas
