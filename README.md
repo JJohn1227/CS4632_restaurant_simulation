@@ -59,6 +59,8 @@ The program prompts the user for the following inputs:
 - Simulation duration (in hours)
 - Customer arrival rate (customers per hour)
 - Average service time (in minutes)
+- Wait time limit (in minutes)
+- Run ID for CSV files
 
 After execution, the system prints performance metrics.
 
